@@ -1,0 +1,9 @@
+Health Potion,25
+Shield,50
+Bag o' Gold,100
+Sword,10
+Mace,15
+Ring,40
+Hat,5
+Boots,7
+Armor,20
